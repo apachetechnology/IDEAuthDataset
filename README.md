@@ -12,7 +12,7 @@ IDeAuth Dataset contains boardcast data from 52 users. However, we discarded ele
 2. Virtual/derieved sensors - the high-pass sensor and the low-pass sensor.<br />
 
 A. From each sensor, 3 raw streams are acquired (X, Y and Z) and a magnitude is computed mathematically from it. <br />
-B. From each stream, 4 statstical features are determined that are Mean (μ), Standard, Deviation (σ), Skewness (s), and Kurtosis (k) with 16
+B. From each stream, 4 statstical features are determined that are Mean (μ), Standard Deviation (σ), Skewness (s), and Kurtosis (k) with 16
 statistical features per sensor.<br />
 C. From 6 sensors, 16 x 9 = 96 sensors are obtained.<br />
 D. Overall, there are 96 statistical features per sample.
