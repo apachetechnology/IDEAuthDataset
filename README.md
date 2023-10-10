@@ -8,8 +8,8 @@ IDeAuth Dataset contains boardcast data from 52 users. However, we discarded ele
 
 # Features Details
 6 motion sensors are used for features acquisition:<br />
-1. Physical sensors - the accelerometer (Accel), the gravity sensor (Gravity), the gyroscope (Gyro), and the magnetometer.<br />
-2. Virtual/derieved sensors - the high-pass sensor and the low-pass sensor.<br />
+1. Physical sensors - the accelerometer (Accel), the gravity sensor (Gravity), the gyroscope (Gyro), and the magnetometer (Magnet).<br />
+2. Virtual/derieved sensors - the high-pass sensor (HPS) and the low-pass sensor (LPS).<br />
 
 A. From each sensor, 3 raw streams are acquired (X, Y and Z) and a magnitude is computed mathematically from it. <br />
 B. From each stream, 4 statstical features are determined that are Mean (μ), Standard Deviation (σ), Skewness (s), and Kurtosis (k) with 16
