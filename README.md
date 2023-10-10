@@ -7,7 +7,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0167865522000770
 IDeAuth Dataset contains boardcast data from 52 users. However, we discarded eleven testers due to insufficient data and used data of 41 users in our experiment. Among these 41 testers, 26 were males, 15 were females with 36 right-handed and 5 left-handed. Majority of testers were situated in Asia (19) and Europe (16) while per- forming the experiment, with 27 were between 20 to 30, 12 were between 30 to 40, and 2 were above 40.
 
 # Features Details
-6 motoion sensors are used for features acquisition:<br />
+6 motion sensors are used for features acquisition:<br />
 1. Physical sensors - the accelerometer (Accel), the gravity sensor (Gravity), the gyroscope (Gyro), and the magnetometer.<br />
 2. Virtual/derieved sensors - the high-pass sensor and the low-pass sensor.<br />
 
