@@ -15,7 +15,9 @@ A. From each sensor, 3 raw streams are acquired (X, Y and Z) and a magnitude is 
 B. From each stream, 4 statstical features are determined that are Mean (μ), Standard, Deviation (σ), Skewness (s), and Kurtosis (k) with 16
 statistical features per sensor.<br />
 C. From 6 sensors, 16 x 9 = 96 sensors are obtained.<br />
-D. Overall, there are 96 statistical features per sample as bellow.
+D. Overall, there are 96 statistical features per sample.
+
+**This can be used as header for csv file.**
 
 Accel_KurtX	Accel_KurtY	Accel_KurtZ	Accel_KurtMag	Accel_MeanMag	Accel_MeanX	Accel_MeanY	Accel_MeanZ	Accel_SkewMag	Accel_SkewX	Accel_SkewY	Accel_SkewZ	Accel_STDMag	Accel_STDX	Accel_STDY	Accel_STDZ	LPF_KurtX	LPF_KurtY	LPF_KurtZ	LPF_KurtMag	LPF_MeanMag	LPF_MeanX	LPF_MeanY	LPF_MeanZ	LPF_SkewMag	LPF_SkewX	LPF_SkewY	LPF_SkewZ	LPF_STDMag	LPF_STDX	LPF_STDY	LPF_STDZ	HPF_KurtX	HPF_KurtY	HPF_KurtZ	HPF_KurtMag	HPF_MeanMag	HPF_MeanX	HPF_MeanY	HPF_MeanZ	HPF_SkewMag	HPF_SkewX	HPF_SkewY	HPF_SkewZ	HPF_STDMag	HPF_STDX	HPF_STDY	HPF_STDZ	Magnet_KurtX	Magnet_KurtY	Magnet_KurtZ	Magnet_KurtMag	Magnet_MeanMag	Magnet_MeanX	Magnet_MeanY	Magnet_MeanZ	Magnet_SkewMag	Magnet_SkewX	Magnet_SkewY	Magnet_SkewZ	Magnet_STDMag	Magnet_STDX	Magnet_STDY	Magnet_STDZ	Gyro_KurtX	Gyro_KurtY	Gyro_KurtZ	Gyro_KurtMag	Gyro_MeanMag	Gyro_MeanX	Gyro_MeanY	Gyro_MeanZ	Gyro_SkewMag	Gyro_SkewX	Gyro_SkewY	Gyro_SkewZ	Gyro_STDMag	Gyro_STDX	Gyro_STDY	Gyro_STDZ	Gravity_KurtX	Gravity_KurtY	Gravity_KurtZ	Gravity_KurtMag	Gravity_MeanMag	Gravity_MeanX	Gravity_MeanY	Gravity_MeanZ	Gravity_SkewMag	Gravity_SkewX	Gravity_SkewY	Gravity_SkewZ	Gravity_STDMag	Gravity_STDX	Gravity_STDY	Gravity_STDZ
 
